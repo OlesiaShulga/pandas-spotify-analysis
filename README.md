@@ -4,6 +4,7 @@
 * The dataset comprises 32,833 records with details on track names, artists, release dates, genres, popularity scores and various audio features.
 * Descriptive analytics was performed on the historical data to understand and summarize key characteristics, trends, and patterns within a dataset. 
 * The analysis results are based on the assumption that the data provided is consistent and accurate, though it’s not. The dataset doesn’t include sufficient amount of records to provide a comprehensive analysis of industry trends and patterns.
+* The analysis results are visualized using Tableau Public, see the link below.
 
 **Dataset description**
 
@@ -36,6 +37,7 @@
 * data cleaning, including identifying and handling null values, outliers, duplicates, formatting inconsistencies
 * exploratory data analysis
 * key findings summarizing 
+* creating a dashboard for visual representation of the analysis results
 
 **Research goals**
 
@@ -52,3 +54,8 @@
 * The number of genres spans over 6 categories, including rap, pop, electronic dance music, latin, r&b and rock each with 4 corresponding subgenres.
 * Average track duration across all genres was increasing from the late 50s (2.4 min) up to late 80s (4.7 min) with a peak in 1971 (5.0 min) and then started to decrease gradually (3.2 min). We can observe various periods of increases and decreases for particular genres, but a tendency to track duration decrease is common for all genres.
 * Seasonal trends chart represents monthly patterns on track releases, from 60s to 00s most track releases were in January, and only starting from 2012 the trend starts to change and the month with most number of releases becomes November.
+
+
+**Tableau Public Dashboard**
+
+Link to the analysis vizualization on Tableau Public: https://public.tableau.com/app/profile/olesia.shulga/viz/SpotifyDatasetAnalysis_17031673936480/Dashboard
